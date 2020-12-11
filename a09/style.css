@@ -1,0 +1,57 @@
+.post{
+    background-color: #d6f8c0;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.feed{
+    color: #000000;
+    align-content: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body {
+    background-color: #f5b8de;
+}
+
+h1{
+    color: #1c4212;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+h2{
+    color: #1c4212;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px; 
+}
+
+p{
+    color: #1c4212;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.form{
+    color: #1c4212;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+    justify-content: center;
+}
+
+.site_title{
+    color: #1c4212;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.buttons{
+    align-content: right;
+    justify-content: right;
+    text-align: right;
+    padding: 0px;
+}
